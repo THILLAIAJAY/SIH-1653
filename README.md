@@ -202,4 +202,18 @@ Kubernetes for orchestration
 
 
 ## Dependencies
+1. Frontend Dependencies
+Core Libraries
+React (or Vue.js if using Vue):
+
+react - The core React library.
+react-dom - For rendering React components in the DOM.
+react-router-dom - For handling routing and navigation within the React app.
+2. Backend Dependencies
+Core Libraries & Frameworks
+Node.js with Express (if using Node.js for the backend):
+
+express - A fast and lightweight Node.js web framework for handling HTTP requests and routing.
+cors - For enabling Cross-Origin Resource Sharing (CORS) when your frontend and backend are served from different origins.
+body-parser - For parsing incoming request bodies.
 
