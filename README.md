@@ -49,9 +49,8 @@ Feedback on collaborative strategies and how well the applicant balances competi
 ![Screenshot 2025-02-26 120913](https://github.com/user-attachments/assets/c62463ea-ccdc-401d-845b-83e1fbdb7916)
 
 
-## Use Cases
-![USECASE DIGRAM SLIDE2](https://github.com/user-attachments/assets/77d4ab89-8e82-4694-9e89-3f162458032a)
-
+## Use Case
+![image](https://github.com/user-attachments/assets/7bb27047-08e9-45bd-aea0-886e9748d8ff)
 
 
 ## Technology Stack
