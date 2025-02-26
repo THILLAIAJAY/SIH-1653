@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:26.02.2025
 ## Register Number:212222113001
-## Name:jaimurughan
+## Name:B.JAIMURUGHAN
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
